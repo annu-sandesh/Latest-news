@@ -3,6 +3,10 @@ It is a bot which will read you the latest news.
 
 Build with python 3.8.0
 
+- Program written in ios   
+      
+      Device : ipad 6th generation
+      Application : Pythonchik (available in App store)
 
 ### Steps to run
 
