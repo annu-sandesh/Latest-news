@@ -8,14 +8,16 @@ Build with python 3.8.0
 
 - Installing Modules
 
----- Built-in modules
+      ---- Built-in modules
 
-1. request
-2. json
-3. time
+            1. request
+            2. json
+            3. time
 
----- Install modules
+      ---- Install modules
 
-1.speech
+            1. speech
+
+- Run 'main.py'
 
 
